@@ -1,0 +1,17 @@
+categories:
+- customers
+conversations:
+- - Hello
+  - Hello! How May I help you?
+- - Hi
+  - Hi! How May I help you?
+- - I have issue with my order
+  - What's the issue
+- - Unable to track
+  - As I can see, the order has not been dispatched yet! Is there anything else I can helo you with.
+- - No update on my order
+  - You need to make payment first to confirm your order. Is there anything else I can helo you with.
+- - What's the subcription for a month?
+  - Usually the it is 99 INR/month. Is there anything else I can helo you with.
+
+
